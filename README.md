@@ -1,47 +1,48 @@
 # Srushty Narayankar | Full-Stack Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Full-Stack Developer. It’s designed with a **dark mode glassmorphism aesthetic** and includes smooth animations and interactive elements.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Full-Stack Developer. It’s designed with a **dark mode glassmorphism aesthetic**, featuring smooth animations and a modern, high-performance UI.
 
 ---
 
 ## 🌐 Live Demo
 
-Check out the live portfolio here: [srushty-portfolio.vercel.app](https://srushty-portfolio.vercel.app)
+Check out the live portfolio here:  
+👉 **[srushty-portfolio.vercel.app](https://srushty-portfolio.vercel.app)**
 
 ---
 
 ## 🎨 Design Highlights
 
-- **Dark Mode Glassmorphism**: Violet and cyan gradient accents  
-- **Smooth Animations**: Powered by Framer Motion  
-- **Responsive Layout**: Mobile-first design with Tailwind CSS  
-- **Accessibility**: Semantic HTML, ARIA labels, and smooth scrolling  
+- **Glassmorphism**: Sleek, frosted-glass effects with violet and cyan gradient accents.
+- **Smooth Animations**: Interactive UI powered by **Framer Motion**.
+- **Responsive Layout**: Fully mobile-optimized design using **Tailwind CSS**.
+- **Modern UI/UX**: Clean navigation, interactive skill chips, and a vertical timeline for experience.
 
 ---
 
 ## 🛠 Features & Components
 
-- **Navigation**: Sticky header with mobile hamburger menu  
-- **Hero Section**: Full-screen intro with animated gradient text, social links, and CTA buttons  
-- **About Section**: Professional bio with stat cards highlighting key competencies  
-- **Skills Section**: 5 skill categories with interactive chip tags  
-- **Projects Section**: Filterable project grid with tech stacks and links  
-- **Experience Section**: Timeline layout showcasing education and achievements  
-- **Contact Section**: Contact form with social media links and call-to-action  
-- **Scroll-to-Top Button**: Smooth navigation back to hero section  
+- **Hero Section**: Dynamic intro with animated text and social link integration.
+- **About Section**: Professional bio with competency stat cards.
+- **Skills Section**: Categorized technical expertise (Frontend, Backend, Tools, etc.).
+- **Experience Timeline**: Vertical chronological layout for education and professional roles.
+  - *Includes: IIITDM-Kurnool, GDG UI/UX Coordinator, and Codess.Cafe Mentee.*
+- **Projects Grid**: Filterable showcase of development projects with GitHub/Live links.
+- **Contact System**: Seamless contact form and social media connectivity.
 
 ---
 
 ## 💻 Technology Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Animations:** Framer Motion  
-- **Icons:** Lucide React  
-- **Deployment:** [Vercel](https://vercel.com)  
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
 
 ---
 
 ## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
