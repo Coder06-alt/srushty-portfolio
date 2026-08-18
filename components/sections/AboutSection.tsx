@@ -61,7 +61,7 @@ export default function AboutSection() {
           >
             <div className="relative w-full aspect-[3/4] rounded-2xl overflow-hidden border border-primary/20 backdrop-blur-sm">
               <Image
-                src="/profile.jpg"
+                src="/profile_new.jpg"
                 alt="Srushty Narayankar"
                 fill
                 className="object-cover"
